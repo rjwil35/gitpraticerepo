@@ -1,2 +1,2 @@
-# gitpraticerepo
-To practice Advance Git workflows
+This is a demonstraton repository for Git Intermediate Techniques.
+
